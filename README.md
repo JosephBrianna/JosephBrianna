@@ -8,7 +8,6 @@ Outside of work, I’m passionate about expanding my understanding of the tech w
 
 
 #### ⚡Fun Facts:
-- 🔭 I’m currently working on ... A Dating web App. & A mobile App
 - 🌱 I’m currently learning ... Comptia Security+
 - 🚨 I've been a 911 dispatcher since 18
 - 👾 Outside of coding, I enjoy Streaming video games.
